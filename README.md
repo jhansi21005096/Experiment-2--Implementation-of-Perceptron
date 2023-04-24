@@ -156,7 +156,7 @@ print("accuracy = " , accuracy_score(classifier.predict(x_test), y_test)*100)
 
 ```
 OUTPUT :
-![output]()
-![output]()
-![output]()
-![output]()
+![output](https://github.com/jhansi21005096/Experiment-2--Implementation-of-Perceptron/blob/main/output.a.png)
+![output](https://github.com/jhansi21005096/Experiment-2--Implementation-of-Perceptron/blob/main/output.b.png)
+![output](https://github.com/jhansi21005096/Experiment-2--Implementation-of-Perceptron/blob/main/output.e.png)
+![output](https://github.com/jhansi21005096/Experiment-2--Implementation-of-Perceptron/blob/main/output.d.png)
