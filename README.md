@@ -160,3 +160,7 @@ OUTPUT :
 ![output](https://github.com/jhansi21005096/Experiment-2--Implementation-of-Perceptron/blob/main/output.b.png)
 ![output](https://github.com/jhansi21005096/Experiment-2--Implementation-of-Perceptron/blob/main/output.e.png)
 ![output](https://github.com/jhansi21005096/Experiment-2--Implementation-of-Perceptron/blob/main/output.d.png)
+
+RESULT:
+Thus a perceptron for classification is implemented using python.
+
